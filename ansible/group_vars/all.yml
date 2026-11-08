@@ -1,0 +1,5 @@
+app_image: "ghcr.io/viktoris19/devops-ci-app"
+app_tag: "7966fb2ffa648aef2d9e8fed6b41493e25c4cfe9"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
